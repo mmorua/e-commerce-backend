@@ -47,7 +47,7 @@ To use this application follow the steps below.
 
 1. To connect to the MySQL database, run `mySQL -u root -p` in the command line and enter your MySQL password.
 
-2. Run `source Develop/db/schema.sql` in the MySQL command line to populate the database and then type `quit` to exit MySQL.
+2. Run `source db/schema.sql` in the MySQL command line to populate the database and then type `quit` to exit MySQL.
 
 3. Run `npm run seed` in the command line to seed the file. If the file was properly seeded, you should see something similar to the screenshot below.
 
