@@ -51,11 +51,11 @@ To use this application follow the steps below.
 
 3. Run `npm run seed` in the command line to seed the file. If the file was properly seeded, you should see something similar to the screenshot below.
 
-![Seeded Code](https://user-images.githubusercontent.com/88728912/153438844-408d0b6e-9ace-4467-8af8-907d5aa1d152.png)
+![Seeded Code]
 
 4. Connect to the server by typing `npm start` in the command line. If the server connected successfully, you should see something similar to the screenshot below.
 
-![Start Server](https://user-images.githubusercontent.com/88728912/153439061-d11ec891-4c4c-4be2-906e-0f6efa3418ba.png)
+![Start Server]
 
 5. To test the application, follow the Screencastify videos below. For more information on Insomnia, follow this link: https://docs.insomnia.rest/.
 
